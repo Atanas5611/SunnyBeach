@@ -1,0 +1,1 @@
+The game is in the GameFolder because it would not work outside of it for some reason.
