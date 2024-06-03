@@ -14,11 +14,14 @@ Level Design (Storyboard): The game has a single level with a static underwater 
 
 Graphics: The game uses the following graphics:
 1.	Background image (Graphics/background.png): This image represents the underwater environment and serves as the background for the game.
- 
+  ![image](https://github.com/Atanas5611/SunnyBeach/assets/124590675/66767ea8-69ae-4a14-99b7-5229b9c6e657)
+
 2.	Fish sprite (Graphics/fish.png): This sprite represents the fish character that the player controls.
- 
+  ![image](https://github.com/Atanas5611/SunnyBeach/assets/124590675/204c50ee-a3d1-4e44-be86-2cf748f0f6a3)
+
 3.	Submarine sprite (Graphics/submarine.png): This sprite represents the submarine character that the player controls.
- 
+  ![image](https://github.com/Atanas5611/SunnyBeach/assets/124590675/4086b5e6-bf65-486a-91a9-2eb7240240a4)
+
 4.	Music (Graphics/sailor_waltz_with_water_effects_c64_style.ogg): The background music that plays throughout the game.
 The sprites are loaded from the provided file paths, and the fish and submarine sprites are scaled down to smaller sizes using the pygame.transform.scale function.
 
@@ -50,4 +53,3 @@ Scoring, Win/Lose Conditions, and Objectives: The game does not have a scoring s
 T
 he primary objective for the player is to control both the fish and the submarine skillfully to achieve the respective win condition for each character.
 Format: The code you provided is written in Python and uses the Pygame library for game development. It follows a structured format with comments explaining the different sections and functionality. The code is organized into several sections, such as initializing Pygame, loading graphics, setting up initial positions and speeds, handling game events (user input), updating character positions, collision detection, and rendering the game elements on the screen.
-![image](https://github.com/Atanas5611/SunnyBeach/assets/124590675/ddd1e910-a23e-42c4-91b5-17a985fc3e79)
